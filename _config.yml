@@ -7,11 +7,10 @@
 
 # Site settings
 title: Записки поздно начинающего питониста.
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Немного про то, как и чему учусь каждый (почти) день.
+  Немного про то, как и чему я учусь каждый (почти) день.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://alinakago.ru" # the base hostname & protocol for your site
 github_username:  alinaka
 vk_username: alinakago
 
