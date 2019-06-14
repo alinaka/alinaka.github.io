@@ -11,8 +11,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Немного про то, как и чему я учусь каждый (почти) день.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alinakago.ru" # the base hostname & protocol for your site
+email: info@alinakago.ru
 github_username:  alinaka
 vk_username: alinakago
+timezone: Europe/Moscow
 
 # Build settings
 markdown: kramdown
